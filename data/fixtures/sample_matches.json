@@ -1,0 +1,299 @@
+{
+  "_meta": {
+    "title": "Cricbuzz LiveStats - Offline Cricket Match Fixtures",
+    "disclaimer": "[SYNTHETIC TEST FIXTURE] This dataset contains explicitly synthetic demonstration fixtures for local development, database seeding, and testing. It must NEVER be represented as live cricket data or certified historical records.",
+    "version": "1.0.0",
+    "generated_for": "Stage 4 Offline Dataset & Stage 11 API Mapping Reference",
+    "source_tag": "LOCAL"
+  },
+  "matches": [
+    {
+      "match_id": 101,
+      "series_name": "Border-Gavaskar Trophy 2024",
+      "match_format": "Test",
+      "match_desc": "IND vs AUS 1st Test - Perth",
+      "match_date": "2024-11-22",
+      "match_status": "Completed",
+      "venue": {
+        "venue_name": "Perth Stadium",
+        "city": "Perth",
+        "country": "Australia",
+        "capacity": 60000
+      },
+      "team1": {
+        "team_name": "India",
+        "short_name": "IND",
+        "country": "India"
+      },
+      "team2": {
+        "team_name": "Australia",
+        "short_name": "AUS",
+        "country": "Australia"
+      },
+      "toss": {
+        "winner": "India",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "India",
+        "win_margin": 295,
+        "win_type": "runs",
+        "summary": "India won by 295 runs"
+      },
+      "innings": [
+        {
+          "innings_number": 1,
+          "batting_team": "India",
+          "bowling_team": "Australia",
+          "total_runs": 150,
+          "total_wickets": 10,
+          "overs_completed": 49.4,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 2,
+          "batting_team": "Australia",
+          "bowling_team": "India",
+          "total_runs": 104,
+          "total_wickets": 10,
+          "overs_completed": 51.2,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 3,
+          "batting_team": "India",
+          "bowling_team": "Australia",
+          "total_runs": 487,
+          "total_wickets": 6,
+          "overs_completed": 134.3,
+          "is_declared": 1
+        },
+        {
+          "innings_number": 4,
+          "batting_team": "Australia",
+          "bowling_team": "India",
+          "total_runs": 238,
+          "total_wickets": 10,
+          "overs_completed": 58.4,
+          "is_declared": 0
+        }
+      ]
+    },
+    {
+      "match_id": 102,
+      "series_name": "ICC Champions Trophy 2025",
+      "match_format": "ODI",
+      "match_desc": "IND vs ENG 2nd Semi-Final",
+      "match_date": "2025-02-28",
+      "match_status": "Completed",
+      "venue": {
+        "venue_name": "Narendra Modi Stadium",
+        "city": "Ahmedabad",
+        "country": "India",
+        "capacity": 132000
+      },
+      "team1": {
+        "team_name": "India",
+        "short_name": "IND",
+        "country": "India"
+      },
+      "team2": {
+        "team_name": "England",
+        "short_name": "ENG",
+        "country": "England"
+      },
+      "toss": {
+        "winner": "England",
+        "decision": "bowl"
+      },
+      "result": {
+        "winner": "India",
+        "win_margin": 45,
+        "win_type": "runs",
+        "summary": "India won by 45 runs (Close Match)"
+      },
+      "innings": [
+        {
+          "innings_number": 1,
+          "batting_team": "India",
+          "bowling_team": "England",
+          "total_runs": 320,
+          "total_wickets": 6,
+          "overs_completed": 50.0,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 2,
+          "batting_team": "England",
+          "bowling_team": "India",
+          "total_runs": 275,
+          "total_wickets": 10,
+          "overs_completed": 47.3,
+          "is_declared": 0
+        }
+      ]
+    },
+    {
+      "match_id": 103,
+      "series_name": "T20 World Cup 2024",
+      "match_format": "T20I",
+      "match_desc": "IND vs SA Final",
+      "match_date": "2024-06-29",
+      "match_status": "Completed",
+      "venue": {
+        "venue_name": "Kensington Oval",
+        "city": "Bridgetown",
+        "country": "Barbados",
+        "capacity": 28000
+      },
+      "team1": {
+        "team_name": "India",
+        "short_name": "IND",
+        "country": "India"
+      },
+      "team2": {
+        "team_name": "South Africa",
+        "short_name": "SA",
+        "country": "South Africa"
+      },
+      "toss": {
+        "winner": "India",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "India",
+        "win_margin": 7,
+        "win_type": "runs",
+        "summary": "India won by 7 runs (Thrilling Close Match)"
+      },
+      "innings": [
+        {
+          "innings_number": 1,
+          "batting_team": "India",
+          "bowling_team": "South Africa",
+          "total_runs": 176,
+          "total_wickets": 7,
+          "overs_completed": 20.0,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 2,
+          "batting_team": "South Africa",
+          "bowling_team": "India",
+          "total_runs": 169,
+          "total_wickets": 8,
+          "overs_completed": 20.0,
+          "is_declared": 0
+        }
+      ]
+    },
+    {
+      "match_id": 104,
+      "series_name": "Australia Tour of India 2024",
+      "match_format": "ODI",
+      "match_desc": "IND vs AUS 3rd ODI - Kolkata",
+      "match_date": "2024-03-24",
+      "match_status": "Completed",
+      "venue": {
+        "venue_name": "Eden Gardens",
+        "city": "Kolkata",
+        "country": "India",
+        "capacity": 66000
+      },
+      "team1": {
+        "team_name": "India",
+        "short_name": "IND",
+        "country": "India"
+      },
+      "team2": {
+        "team_name": "Australia",
+        "short_name": "AUS",
+        "country": "Australia"
+      },
+      "toss": {
+        "winner": "Australia",
+        "decision": "bat"
+      },
+      "result": {
+        "winner": "India",
+        "win_margin": 4,
+        "win_type": "wickets",
+        "summary": "India won by 4 wickets with 12 balls remaining"
+      },
+      "innings": [
+        {
+          "innings_number": 1,
+          "batting_team": "Australia",
+          "bowling_team": "India",
+          "total_runs": 284,
+          "total_wickets": 9,
+          "overs_completed": 50.0,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 2,
+          "batting_team": "India",
+          "bowling_team": "Australia",
+          "total_runs": 285,
+          "total_wickets": 6,
+          "overs_completed": 48.0,
+          "is_declared": 0
+        }
+      ]
+    },
+    {
+      "match_id": 105,
+      "series_name": "Asia Cup 2023",
+      "match_format": "ODI",
+      "match_desc": "IND vs PAK Super Four",
+      "match_date": "2023-09-11",
+      "match_status": "Completed",
+      "venue": {
+        "venue_name": "R. Premadasa Stadium",
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "capacity": 35000
+      },
+      "team1": {
+        "team_name": "India",
+        "short_name": "IND",
+        "country": "India"
+      },
+      "team2": {
+        "team_name": "Pakistan",
+        "short_name": "PAK",
+        "country": "Pakistan"
+      },
+      "toss": {
+        "winner": "Pakistan",
+        "decision": "bowl"
+      },
+      "result": {
+        "winner": "India",
+        "win_margin": 228,
+        "win_type": "runs",
+        "summary": "India won by 228 runs"
+      },
+      "innings": [
+        {
+          "innings_number": 1,
+          "batting_team": "India",
+          "bowling_team": "Pakistan",
+          "total_runs": 356,
+          "total_wickets": 2,
+          "overs_completed": 50.0,
+          "is_declared": 0
+        },
+        {
+          "innings_number": 2,
+          "batting_team": "Pakistan",
+          "bowling_team": "India",
+          "total_runs": 128,
+          "total_wickets": 10,
+          "overs_completed": 32.0,
+          "is_declared": 0
+        }
+      ]
+    }
+  ]
+}

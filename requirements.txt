@@ -1,0 +1,19 @@
+# Core Web Framework
+streamlit>=1.40.0
+
+# Data Processing & Analytics
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Interactive Visualizations
+plotly>=5.20.0
+
+# Networking & Ingestion (Stage 11)
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0
